@@ -25,3 +25,8 @@ var YourComponent = React.createClass({
   }
 });
 ```
+
+
+## Demo
+
+JSFiddle: http://jsfiddle.net/606xh7z7/
