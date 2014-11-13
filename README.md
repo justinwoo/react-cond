@@ -1,4 +1,4 @@
-# React Cond
+# React Cond [![Build Status](https://travis-ci.org/kimagure/react-cond.svg)](https://travis-ci.org/kimagure/react-cond)
 
 Render components conditionally using pairs of [boolean, Component].
 
